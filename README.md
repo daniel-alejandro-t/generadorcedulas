@@ -7,4 +7,8 @@
  * 		
  * 		En un futuro quisiera hacerlo orientado a objetos y crearle una pequeña interfaz gráfica que, por ejemplo nos genere el 
  * 		diccionario de una provincia determinada.
+ *    
+ *    Añadir una barra de progreso
+ *
+ *    Guardar los números a probar en diferentes tipos de arraylist a ver cual funciona mas rápido para este caso
  */
