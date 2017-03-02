@@ -1,7 +1,7 @@
 # generadorcedulas
 /*
  * 		Este pequeño programa repasa los números desde 2499999999L a 0100000000L en busca de los números de cédula validos,
- * 		es decir, lo que cumplan el argoritmo son guardados en un txt, buenisimo para usarlo en ataques de fuerza bruta.
+ * 		es decir, lo que cumplan el argoritmo son guardados en un txt, usar solo para fines educativos.
  * 		
  * 		La validación de la provincia y la del número de digitos se han omitido en éste generador por obvias razones.
  * 		
