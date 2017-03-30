@@ -1,14 +1,9 @@
 # generadorcedulas
-/*
- * 		Este pequeño programa repasa los números desde 2499999999L a 0100000000L en busca de los números de cédula validos,
- * 		es decir, lo que cumplan el argoritmo son guardados en un txt, usar solo para fines educativos.
- * 		
- * 		La validación de la provincia y la del número de digitos se han omitido en éste generador por obvias razones.
- * 		
- * 		En un futuro quisiera hacerlo orientado a objetos y crearle una pequeña interfaz gráfica que, por ejemplo nos genere el 
- * 		diccionario de una provincia determinada.
- *    
- *    Añadir una barra de progreso
- *
- *    Guardar los números a probar en diferentes tipos de arraylist a ver cual funciona mas rápido para este caso
- */
+
+Este pequeño programa es capas de generar números de cédula validos de una determinada provincia o de todo Ecuador,
+es decir, todos aquellos numeros que guarden el superen el argoritmo son guardados en un txt, usar solo para fines educativos.
+  		
+En un futuro quisiera crearle una pequeña interfaz gráfica que facilite su uso.
+     
+     
+  
