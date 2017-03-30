@@ -4,6 +4,5 @@ Este pequeño programa es capas de generar números de cédula validos de una de
 es decir, todos aquellos numeros que superen el argoritmo son guardados en un txt, usar solo para fines educativos.
   		
 En un futuro quisiera crearle una pequeña interfaz gráfica que facilite su uso.
-     
-     
   
+No me responsabilizo del mal uso que se le pueda dar a ésta herramienta.  
